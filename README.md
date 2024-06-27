@@ -1,4 +1,4 @@
-# DL-TA
+# Integrantes
 
 - Quintana Rosales, Angel Francisco
 - Valdez Caillaux, Enrique Sebastian
